@@ -11,6 +11,7 @@
 }
 
 body {
+  background-image: url('./images/background-001.png');
   display: flex;
   font-family: Poppins , sans-serif;
   justify-content: center;
