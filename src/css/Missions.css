@@ -34,7 +34,7 @@
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 20px;
+  border-radius: 10px;
   border-right: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
   display: flex;
@@ -92,11 +92,10 @@
   opacity: 0;
   padding: 10px;
   transition: 1s;
-  width: 90%;
+  width: 95%;
 }
 
 .box-card-mission:hover .box-mission-info {
   display: flex;
   opacity: 1;
-  transition: 1s;
 }
