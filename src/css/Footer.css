@@ -1,0 +1,22 @@
+.box-footer-solar-system {
+  align-items: center;
+  background: #1c1c1c;
+  color: gainsboro;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.box-footer-solar-system p {
+  font-size: 0.75rem;
+}
+
+.box-footer-solar-system a {
+  color: gainsboro;
+  text-decoration: none;
+}
+
+.box-footer-solar-system a:hover {
+  font-weight: 700;
+}

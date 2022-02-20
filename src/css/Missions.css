@@ -4,8 +4,8 @@
   display: flex;
   flex-direction: column;
   margin: 10px 0;
-  padding: 10px;
-  width: 1080px;
+  padding: 10px 0;
+  width: 1180px;
 }
 
 .box-title-missions {
@@ -17,6 +17,7 @@
   border-right: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
   color: #fdfefe;
+  margin-bottom: 10px;
   width: 30%;
 }
 
@@ -24,6 +25,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  width: 100%;
 }
 
 .box-card-mission {
@@ -42,7 +44,7 @@
   justify-content: center;
   margin: 20px;
   transition: 1s;
-  width: 400px;
+  width: 325px;
 }
 
 .box-card-mission:hover {
@@ -64,13 +66,13 @@
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
   color: #ecf0f1;
   display: flex;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
   justify-content: center;
   margin: 5px;
   padding: 10px;
   transition: 1s;
-  width: 90%;
+  width: 95%;
 }
 
 .box-mission-info {

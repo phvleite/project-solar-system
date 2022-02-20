@@ -16,3 +16,9 @@ body {
   font-family: Poppins , sans-serif;
   justify-content: center;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
